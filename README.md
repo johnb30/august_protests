@@ -1,4 +1,5 @@
-august_protests
+GDELT Protest Events
 ===============
 
-Time series mapping of protests in August within Egypt.
+Mapping the protests in Egypt in the month of August using GDELT data and 
+CartoDB's [Torque](https://github.com/CartoDB/torque).
